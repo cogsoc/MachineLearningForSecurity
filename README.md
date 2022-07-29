@@ -1,7 +1,7 @@
 # MachineLearningForSecurity
 Machine Learning for Intrusion Detection using the UNSW-NB15 dataset
 
-This source code does not include the csv files, so they should be download with the site below.
+This source code does not include the data source, so they should be downloaded with the site below.
 
 This project uses the UNSW-NB15 dataset
 https://research.unsw.edu.au/projects/unsw-nb15-dataset
