@@ -1,15 +1,15 @@
 # MachineLearningForSecurity
 Machine Learning for Intrusion Detection using the UNSW-NB15 dataset
 
-##Prerequisites
-###Python Environment
+## Prerequisites
+### Python Environment
 Python 3.9.7
 pandas 1.3.4
 scikit-learn 1.0.2
 imblearn 0.9.0
 Pytorch 1.11.0
 
-###DataSet
+### DataSet
 This source code does not include the data source, so they should be downloaded with the site below.
 
 This project uses the UNSW-NB15 dataset
@@ -22,13 +22,13 @@ The details of the UNSW-NB15 dataset were published in following the papers.
 4. Moustafa, Nour, et al. "Big data analytics for intrusion detection system: statistical decision-making using finite dirichlet mixture models." Data Analytics and Decision Support for Cybersecurity. Springer, Cham, 2017. 127-156.
 5. Sarhan, Mohanad, Siamak Layeghy, Nour Moustafa, and Marius Portmann. NetFlow Datasets for Machine Learning-Based Network Intrusion Detection Systems. In Big Data Technologies and Applications: 10th EAI International Conference, BDTA 2020, and 13th EAI International Conference on Wireless Internet, WiCON 2020, Virtual Event, December 11, 2020, Proceedings (p. 117). Springer Nature.
 
-##Project & Script Descriptions
-###Directories
-**./BC**
-contains the codes of binary classification
-**./DataStoreDifference**
-contains the codes to compare the models using all data and extracted data
-**./MC**
-contains the codes of multiple classification
-**./Version**
-contains the codes to check version of software
+## Project & Script Descriptions
+### Directories
+**./BC**  
+contains the codes of binary classification  
+**./DataStoreDifference**  
+contains the codes to compare the models using all data and extracted data  
+**./MC**  
+contains the codes of multiple classification  
+**./Version**  
+contains the codes to check version of software  
